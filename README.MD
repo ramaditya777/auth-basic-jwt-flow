@@ -1,10 +1,3 @@
-Love that plan 😄 — that’s a **perfect learning order**.
-We’ll go **one by one**, no rush, no magic, just solid understanding.
-
-Here’s how we’ll do it and **what you’ll gain at each step** 👇
-
----
-
 ## 🥇 Step 1: 🔐 AuthContext (no more prop passing)
 
 ### Why this comes first
@@ -117,6 +110,3 @@ No skipping, no confusion.
 ---
 
 ### 🚀 Ready?
-
-Say **“Start AuthContext”**
-and we’ll build it cleanly, step by step, on top of your existing code 💪
